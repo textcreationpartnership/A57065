@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pauls soul panting for a better life a sermon preached at Lotherstock in the county of Northampton, Jan. 25, 1654, at the funeral of that faithful servant in Christ, Master John Bellamy ... : with a brief narration of his life and death / by Richard Resbury ...</title>
+            <author>Resbury, Richard, 1607-1674.</author>
+         </titleStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57065</idno><idno type="EEBO-CITATION">12576964</idno>
+  <idno type="VID">63630</idno>
+  <idno type="EEBO-PROQUEST">2240960594</idno>
+  
+            <idno type="STC">Wing R1135</idno>
+            <idno type="STC">ESTC R2269</idno>
+            <idno type="OCLC">12576964</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57065)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63630)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 331:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pauls soul panting for a better life a sermon preached at Lotherstock in the county of Northampton, Jan. 25, 1654, at the funeral of that faithful servant in Christ, Master John Bellamy ... : with a brief narration of his life and death / by Richard Resbury ...</title>
+                  <author>Resbury, Richard, 1607-1674.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.I. and are to be sold by Tho. Newberry ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Bellamie, John, d. 1654.</term>
+               <term type="uniform_title">Bible. --  N.T. --  Philippians I, 23 --  Sermons.</term>
+               <term type="topical_term">Funeral sermons.</term>
+               <term type="topical_term">Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63630:1"/>
+            <p>Pauls Soul Panting FOR A BETTER LIFE. A Sermon Preached at <hi>Lotherstock</hi> in the County of <hi>Northampton,</hi> Jan. 25. 1654.</p>
+            <p>At the Funeral of that faithful Servant in Christ, Master <hi>John Bellamy,</hi> late Collonel of a Regiment of Foot, belonging to the famous City of <hi>London.</hi> With a brief Narration of his Life and Death.</p>
+            <p>By <hi>RICHARD RESBURY,</hi> Minister of the Gospel at <hi>Owndle</hi> in <hi>Northamptonshire.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>R. I.</hi> and are to be sold by <hi>Tho. Newberry,</hi> at the three Lions in Corn-hil, over against the Conduit. 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:63630:2"/>
+            <pb n="1" facs="tcp:63630:2"/>
+            <head>PAULS Soul panting for a better Life.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is not my manner to insist upon Discourses of the Dead, otherwise I might propound this our deceased Brother in the Lord, for a Pattern to the living, and that in many things wherein hee excelled.</p>
+            <p>For Scripture-knowledge; a man wel studied in, and acquain<g ref="char:EOLhyphen"/>ted with, the Holy Scriptures, one in whom the Word of Christ dwelt richly.</p>
+            <p>For Christian Prudence; and composure of spirit in all Conditions and Commerce, like a Ship duly Balasted, hold<g ref="char:EOLhyphen"/>ing an even and steady course.</p>
+            <p>For U<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>byast Integrity; both in former times, times of great ensnaring to the Consciences of the Saints; and in latter times, times of great Licentiousness to the fancies of men, he still held forth one and the same, and that a good Profession.</p>
+            <p>For his love to, and esteem of, the faithful Ministers, and Divine Ordinances in their hands, but with true choyce, pure Administrations, in Pious hands, were his delight; no whit dazled with those foolish fires of latter times breaking forth a<g ref="char:EOLhyphen"/>mong us, who thought with their wandring flames to put out the Sun.</p>
+            <p>For his choyce Consortship; his society was with the Saints, the excellent upon Earth, the best of Men, whether
+<pb n="2" facs="tcp:63630:3"/>Ministers, or Christians, were the men of his intimacy, and familiarity. I might have added his excellent temper of spirit in his late Sickness, when under the most grinding pains, and saddest disturbance, so submissive and content with his Fathers hand, divers times affirming, that now he was in Gods way, making use of means, he was fully content with his condi<g ref="char:EOLhyphen"/>tion, and that he was well, forasmuch as he was as God would have him to be.</p>
+            <p>This and much more I might insist upon, but I forbear, and shall now turn me from the dead to the living, and endeavour to speak something that may be of use to us, in reference to the day of death from that text of Scripture.</p>
+            <q>
+               <bibl>
+                  <hi>1 PHILIP. XXIII.</hi>
+               </bibl>
+               <p>
+                  <hi>—Having a desire to depart, and to be with Christ, which is farre better.</hi>
+               </p>
+            </q>
+            <p>Where we have, First, The Apostles desire of death <hi>(I desire to depart.)</hi>
+            </p>
+            <p>Secondly, The reason of that desire <hi>(and to be with Christ.)</hi>
+            </p>
+            <p>Thirdly, The further Explication <hi>(which is farre better.)</hi>
+            </p>
+            <p>For the First, <hi>I desire to depart;</hi> the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> transla<g ref="char:EOLhyphen"/>ted to depart, signifies properly, to loose from the Harbour; a Metaphor from Seafarers in a forein Country, desirous to weigh Anchor thence, and to sayl home.</p>
+            <p>
+               <hi>Doct.</hi> Christians in this Life are like Seafarers, wind-bound in forein Countries, desirous thence to loose, and to make for their own Country.</p>
+            <p>Three things here.</p>
+            <p n="1">1. This World is to Christians a forein Country, they Pil<g ref="char:EOLhyphen"/>grims, Strangers, and Sojourners here; <hi>Abraham</hi> even in the promised Land, his prope. Inheritance, yet a stranger, <hi>Hebrews</hi> 11.9. <hi>By faith he sojourned in the Land of Promise as in a strange Country, dwelling in Tabernacles, with</hi> Isaac <hi>and</hi> Jacob, <hi>the Heirs
+<pb n="3" facs="tcp:63630:3"/>with him of the same promise;</hi> The inhabitants of this World are of a different Spirit, Language, Manners, Commerce, from the Saints; of the one Carnal, of the other Spiritual; of the one Earthly, of the other Heavenly; of the one pure, of the other impure: And what is the usual lot of Strangers in a forein Country, the same is the lot of the Saints in this World; they have many Innes, and few Friends; meet with much abuse, and hard measure from the World.</p>
+            <p n="2">2 Heaven is their home; thence is their Nativity, born from above; there their inheritance, Children of the Kingdom; thither they are to return, as to the place of their abiding, in the presence of their Father, and communion with all their Brethren, from the beginning to the end of the World.</p>
+            <p n="3">3 They are desirous hence to depart, and to set sayl for home, accounting themselves whilst detained in this World as persons Wind-bound in forein Coasts from their desired Voyage home.</p>
+            <p>Thus <hi>Abraham</hi> their Father, <hi>Heb.</hi> 11.10. <hi>For he looked for a Ci<g ref="char:EOLhyphen"/>ty which hath foundations, whose builder and maker is God.</hi> Thus the Seed of <hi>Abraham,</hi> in the thirteenth, fourteenth, fifteenth, and sixteenth verses of the same. They confess that they were stran<g ref="char:EOLhyphen"/>gers and Pilgrims upon earth, <hi>vers.</hi> 13. and declared plainly that they sought a Country. <hi>vers.</hi> 14. not mindful of the Country whence they came, <hi>vers.</hi> 15. but desiring a better, that is an heavenly, <hi>vers.</hi> 16. Thus the Apostle in another Metaphor, in 2 Cor. chap. 5. vers. 1, 2, 3, 4. <hi>For we know, that if our earthly house of this Tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens,</hi> vers. 1. <hi>For in this we groan earnestly, desiring to be cloathed upon with our house which is from heaven, &amp;c.</hi> See the rest that follows.</p>
+            <p>
+               <hi>Ʋse</hi> 1. A discovery of such as are so fixt in their desires to this Life, they are farre from desiring death, they are at home in this World, as to their affections, in their spirits, nothing
+<pb n="4" facs="tcp:63630:4"/>less than Strangers, and Pilgrims, and Sojourners here; these not of the Society of the Saints, they have neither <hi>Abrahams</hi> spirit, nor the spirit of his Children, they are the men of this World, in opposition to the Children of the Kingdom.</p>
+            <p>
+               <hi>Ʋse</hi> 2. Let the Saints labour more and more after this Spirit. Oh, to look at themselves as Foreiners here, at this World as a strange Country, at the things of this World, as things of little concernment to them, at their condition in this World as a condition of unrest and danger, many snares, temptations, afflictions here daily renuing; at Communion with this World, as Commerce with strangers, at the Spirit, Lan<g ref="char:EOLhyphen"/>guage, manners of this World, all as unpleasing, and fo<g ref="char:EOLhyphen"/>rein, at their detainment in this World, as cross Windes to hinder their desired Voyage home; at H<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aven as their Coun<g ref="char:EOLhyphen"/>try, and stirre up their desires after their Voyage home. O that the Lord would send a fair Wind and loose me from this forein Country; O that he would pull up the stakes, and loose the Cords of this Tabernacle, and take it down. But further ground of this we shall have from the next Do<g ref="char:EOLhyphen"/>ctrin.</p>
+            <p>
+               <hi>Doct.</hi> 2. Therefore do the Saints desire to depart hence by Death, that they may be with Christ in Heaven, which is farre better for them, than still to abide in this life.</p>
+            <p>
+               <hi>Here again we have Three things to observe.</hi>
+            </p>
+            <p>First, They pass from Death immediatly to Christ in Hea<g ref="char:EOLhyphen"/>ven; to Christ, <hi>That I might be with Christ;</hi> to Christ in Hea<g ref="char:EOLhyphen"/>ven, <hi>This day shalt thou be with one in my Kingdom.</hi> 2 Cor. 5.1, 2.3, &amp; 4. verses, Ver. 1. <hi>We know that if our earthly house of this Ta<g ref="char:EOLhyphen"/>bernacle were disseived, we have a building of God, in House not made with hands, eternal in the Heavens.</hi> 2. <hi>For in this we groan earnestly, desiring to be cloathed upon, with our house which is from Heaven.</hi> 3. <hi>If so be that being cloathed, we shall not be found naked.</hi> 4. <hi>For wee that are in this Tabernacle do groan, being bur<g ref="char:EOLhyphen"/>dened, not for that wee would be uncloathed, but cloathed up<g ref="char:EOLhyphen"/>on,
+<pb n="5" facs="tcp:63630:4"/>that mortality might bee swallowed up of life.</hi> This, accor<g ref="char:EOLhyphen"/>ding to the Soul, having now put off the body, <hi>Hebr.</hi> 12.23. <hi>To the spirits of just men made perfect.</hi> Their spirits now made per<g ref="char:EOLhyphen"/>fect in Heaven, not the whole man, body and soul, together till the Resurrection. 2 <hi>Corinth.</hi> 5.6, 8. <hi>Knowing, that whilst we are at home in the body, we are absent from the Lord. — Willing ra<g ref="char:EOLhyphen"/>ther to be absent from the body, and to be present with the Lord;</hi> This presence then with the Lord till the Day of Judgement, is not in the body, but out of the body.</p>
+            <p>Hence their Error who teach either that the Soul sleeps till the Day of Judgement, or that the Souls of the Saints go into Purgatory. If the spirits of just men be in Heaven, be in a state of perfection, they do nothing less than sleep; and for Purga<g ref="char:EOLhyphen"/>tory, the Torments of it are too inconsistent with that Blessed<g ref="char:EOLhyphen"/>ness which the Saints enjoy immediately after death, <hi>Revel.</hi> 14, 13. <hi>Blessed are the dead which dye in the Lord, from henceforth, yea saith the Spirit, that they rest from their labours, and their works do follow them; Lazarus</hi> at this death, <hi>His soul was carried by Angels into</hi> Abrahams <hi>bosome.</hi>
+            </p>
+            <p n="2">2 Therefore they desire to dye, that they may be with Christ, not because they cannot have their sill of worldly enjoyments, nor because they meet with so many worldly Crosses in the World, These are Carnal grounds; but because they desire to be with Christ; the Spirit saith, <hi>Come,</hi> as the espoused Virgin desires to be at home with her Husband.</p>
+            <p>It is the enjoyment of Christ that makes Heaven it self desi<g ref="char:EOLhyphen"/>rable, <hi>Coloss.</hi> 3.1. <hi>If yee then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God;</hi> that Christ is there, is the great Motive to seek the things that are there, or that lead thither. Christ who was Crucified for them, with him they desire to be, their love is Crucified, Christ to whom they are espoused, in his presence is their life, Cant. 8.14. <hi>Make hast my Beloved, and be thou like to a Roe, or to a young Hart upon the mountains of spices.</hi> This is the voyce of the true Church of Christ, breathing out her desires of enjoying him.</p>
+            <p>Obj. <hi>But are they not with Christ here, have they not Spiritual uni<g ref="char:EOLhyphen"/>on and communion with him?</hi>
+            </p>
+            <pb n="6" facs="tcp:63630:5"/>
+            <p>
+               <hi>Answ.</hi> Yes, but their enjoyment of him here Comparative<g ref="char:EOLhyphen"/>ly is no enjoyment, hence absent from the Lord here, saith the Apostle, yet they have neer union with him, and pure communion with him, but nothing to that which then shall be.</p>
+            <p n="3">3 Therefore they desire to dye, that they may be with Christ, as that which is farre better than to abide in the Flesh; the en<g ref="char:EOLhyphen"/>joyment of Christ here farre above all other enjoyments, <hi>My soul is filled as with marrow, &amp;c. Thy loving kindness is better, &amp;c. Whom have I in heaven, &amp;c.</hi> But the enjoyment of him there far above this, farre better hence to be translated. This we shall shew in. Five particulars.</p>
+            <p n="1">1 There the fulness of his presence, here some small glimps; Here he shews himself through the Lattice, there with open face; Here sometimes he affords, sometimes with-draws his presence, there he always affords it; Here, <hi>yet a little while and you shall see me, &amp;c.</hi> there always see him; Here sometimes clear, sometimes cloudy, sometimes day in the light of his Countenance, sometimes night in the hiding of it, there al<g ref="char:EOLhyphen"/>ways clear, always day. Now if the glimpses of his presence be so comfortable here, as <hi>Psal.</hi> 63.1, 2. <hi>O God thou art my God, early will I seek thee; my soul thirsteth for thee, in a dry and thirsty land where no water is. To see thy power and thy glory,</hi> as I have seen thee in the Sanctuary. And <hi>Psal.</hi> 84.1, 2. <hi>How amiable are thy Tabernacles, O Lord of Hosts? My soul longeth, yea even fainteth for toe Courts of the Lord, my heart and my flesh cryeth out for the living God.</hi> How ravishing shall the fulness of his presence there he?</p>
+            <p n="2">2 There the full Communication of his love, here much restraint of it; the length, breadth, Depth, height of that love of Christ which here passeth knowledge; Electing love, Redeeming love, Converting love, Adopting love, &amp;c. there fully communicated; here our hearts too narrow vessels to re<g ref="char:EOLhyphen"/>ceive the fulness of his love, it is in the breast of Christ as a mighty Sea, but flows into our hearts as into narrow
+<pb n="7" facs="tcp:63630:5"/>Chanels, there our hearts enlarged, our vessels made bigger; Here some hints of his love, some small significations inter<g ref="char:EOLhyphen"/>changeable with the tokens of his displeasure, there the ful<g ref="char:EOLhyphen"/>ness of it without change. Now if the seals and earnests of Gods love by the Spirit of Adoption in our hearts here, be so sweet, the white Stone, the hidden Manna, <hi>Rev.</hi> 2.17. what shall bee the ful injoyment of it there?</p>
+            <p n="3">3 There the fulness of his purity; here how much is wan<g ref="char:EOLhyphen"/>ting to us? We as the Moon receive light from the Sun, but our conversion as at her first appearance after the Change? how much of the old Moon, how much Dark still, how little a part enlightned? at the best here we reach not the first quarter, there as in the Full all enlightned, all-over pure, not one dark spot, nothing of the Old Man, nothing of Corruption left; the whole Soul full of the Image of God, in knowledge, righte<g ref="char:EOLhyphen"/>ousness, and holiness, filled with all the fulness of God.</p>
+            <p n="4">4 There the fulness of peace and joy in his presence; Here so many Crosses, many outward Troubles, many inward, the lustings of Sin, the guilt of Sin, the sence of Gods displeasure, the fear of wrath, all interruptions of our peace, eclipsed our joy, but there all these things are done away, in the fulness of his love, and in the fulness of his purity, fulness of peace and joy? If here joy unspeakable and full of glory, what there?</p>
+            <p n="5">5 There the fulness of his glory, here hardly any foot-steps of glory, so little appearance of it here, that the Apostle tells us, it doth not yet appear what we shall be, 1 <hi>Joh.</hi> 3.2. <hi>Beloved, now are we the Sons of God, and it doth not yet appear what we shall be, but we know that when he shall appear, we shall be like him, for we shall see him as he is.</hi> And that life is yet hid with Christ in God, <hi>Colos.</hi> 3.3. <hi>Yee are dead, and your life is hid with Christ in God;</hi> but then shall we be Companions with Christ in his glory, <hi>vers.</hi> 4. <hi>When Christ who is our life shall appear, then shall yee also appear with him in glory;</hi> full of his glory, <hi>Ioh.</hi> 17.<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>2. <hi>And the glory that thou gavest me, I have given them, that they may be one even as we are one.</hi>
+            </p>
+            <pb n="8" facs="tcp:63630:6"/>
+            <p> O what a wonderful glory shall this be! No wonder now if the Saints, to whom by the Spirit are revealed the things that are freely given them of God, desire to be dissolved, &amp;c.</p>
+            <p>
+               <hi>Ʋse.</hi> To aym at this height of a Christian spirit, to desire to dye. O that we could say, Were we put to our choyce, we had rather be hence translated, than here abide; but then upon this ground only that we might be with Christ in Hea<g ref="char:EOLhyphen"/>ven, and there have that farre better enjoyment of him than here we can have, in the fulness of his presence, love, purity, peace, glory.</p>
+            <p n="1">1 That love which should be in us to Christ requires it; love desires full enjoyment, and to please fully. Is Jesus Christ the beloved of our souls, as the Church in the <hi>Canticles</hi> profes<g ref="char:EOLhyphen"/>seth often, are our souls espoused to him as chaste Virgins? 2 Cor. 11.2. <hi>I have espoused you to one Husband, that I may present you as a chaste Virgin to Christ.</hi> Do we through love desire to meet him, and do we delight in his presence, in his Ordinances here, are the first fruits sweet unto our taste? Can we say with <hi>Igna<g ref="char:EOLhyphen"/>tius,</hi> My love is crucified? with the Church in the <hi>Canticles, Wee are sick of love?</hi> (O that we could) with the Apostle from our inward say, <hi>If any man love not the Lord Jesus let him be Anathema, Maranatha?</hi> How can it then be that this desire should not bee at the top of our desires? Do we desire in all things to please Christ, as it is the property of love so to do? Love seeks not her own, and do we find by hourly experience that we cannot but do the things that are displeasing in his sight, whilst here in the body, how upon this account shall not our love to him work this desire in us?</p>
+            <p n="2">2 It is our own great advantage. Is it not our great advantage to abide in the fulness of his presence, <hi>in whose presence is the ful<g ref="char:EOLhyphen"/>ness of joy?</hi> to have the full fruition of his love, <hi>whose loving kindness is better than life?</hi> To have such full communion with him in his holiness, as it shall be no longer possible for us to sin? Our souls now so desired, then pure as the blessed Angels? To have the ful<g ref="char:EOLhyphen"/>ness
+<pb n="9" facs="tcp:63630:6"/>of peace and glory, which the glorious Angels, which Christ himself is possessed of.</p>
+            <p>To bathe in those rivers of eternal pleasures, to have an eternal Summer without any Winter, an eter<g ref="char:EOLhyphen"/>nal Day without any Night, &amp;c.</p>
+            <p>To have the full of all our Hopes, Desires, Prayers, the Promises of God, and above what hath entred in<g ref="char:EOLhyphen"/>to mans heart.</p>
+            <p>We must needs conclude that we are below this de<g ref="char:EOLhyphen"/>sire, it is our infirmity, and indeed much sin is in it; for whence proceeds it?</p>
+            <p n="1">1 From want of love to Christ.</p>
+            <p n="2">2 From much love of the World, and the things of this present life, relations, possessions here.</p>
+            <p n="3">3 From the imperfection of our holiness, that our contrariety to sin dwelling in us is no higher, and wee no more troubled at it.</p>
+            <p n="4">4 From our low and weak apprehensions, and thence our undervaluation of the presence, love, puri<g ref="char:EOLhyphen"/>ty, peace, and glory of Christ.</p>
+            <p n="5">5 From the secret sting of a guilty Conscience, nourished by liberty of sinning and unbelief. Let us therefore labour after this desire more and more, ha<g ref="char:EOLhyphen"/>ving seen such pregnant grounds for it.</p>
+            <p>One Caution, Though this should be our desire and propension of soul, yet,</p>
+            <p n="1">1 Are we thankfully to accept the continuation of this present life in the World as a blessing from God, and to own long life as a great blessing; wee de<g ref="char:EOLhyphen"/>serve Death according to the first institution of it; that is, as a stroak in wrath from the hand of God eternally destroying.</p>
+            <p n="2">2 Because the longer our life here, the more time of service to God in this World, and being instrumen<g ref="char:EOLhyphen"/>tal to his glory amongst men, and helpful to our near
+<pb n="10" facs="tcp:63630:7"/>relations, whether in the things of this life or a bet<g ref="char:EOLhyphen"/>ter, but then thus should we use it.</p>
+            <p n="2">2 In case it appear the Lord hath any special work for us to do for his glory, and the good of his people, we should be fully content here to abide upon this ac<g ref="char:EOLhyphen"/>count, though it should cost us many and deep suffer<g ref="char:EOLhyphen"/>ings, and afflictions. Thus the Apostle here, but the propension of the Spirit should be for Death upon the former account.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:63630:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
